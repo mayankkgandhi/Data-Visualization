@@ -8,13 +8,13 @@ Data : [Chicago Crime Data](https://data.cityofchicago.org/Public-Safety/Crimes-
 The intended audience are public safety officials, law enforcement organizations, and policymakers. 
 
 ## Initial Analysis Questions
-We want to know what the data tells us about the crime patterns, so we focus on three main aspects of the crime.  
+We want to know what the data tells us about the crime patterns, so we focus on three main aspects of the crime.    
 1. What are the most common crimes in Chicago?  
 2. Analysis of Crimes by Time.  
 3. Where do crimes occur in Chicago? Analysis on the Locations of crime?  
 
-Chicago has been in the news a lot in the last few years for its Crime rate. So, let’s see if we can find some insights on “Arrests” in Chicago,
-4. Interesting insights on Arrests in Chicago.  
+Chicago has been in the news a lot in the last few years for its Crime rate. So, let’s see if we can find some insights on “Arrests” in Chicago,  
+* Interesting insights on Arrests in Chicago.  
 
 ## Discoveries & Insights
 Our initial analysis of the data tells us about the number of crime records over the years, top common crimes and crimes per ward in Chicago city. 
