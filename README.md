@@ -2,8 +2,8 @@
 
 A portfolio of useful Tableau visualizations and dashboard are located in this repo.
 
-## [Tableu Public Profile:](https://public.tableau.com/profile/mayank.gandhi#!/)
+## [Tableau Public Profile](https://public.tableau.com/profile/mayank.gandhi#!/)
 
 
-# [EXPLORING CRIME IN CHICAGO]()
+## [Exploring Crime In Chicago (2001-2018)](https://github.com/mayankkgandhi/Data-Visulazation/tree/master/CRIME%20IN%20CHICAGO)
 
