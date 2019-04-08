@@ -1,4 +1,4 @@
-# Data Visulazation
+# Data Visulazation Portfolio
 
 A portfolio of useful Tableau visualizations and dashboard are located in this repo.
 
